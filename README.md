@@ -24,4 +24,4 @@ This project is ideal for organizations or individuals looking to:
 ## How to Use  
 1. Clone the repository:  
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/RajendraPrasad96536/document-intelligence-AI.git
